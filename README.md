@@ -1,6 +1,6 @@
-# dateTime-object 
+# [dateTime-object](https://www.npmjs.com/package/datetime-object) 
 
-# emojibar
+# [emojibar](https://www.npmjs.com/package/emojibar)
 
 # find-polyfill
 
@@ -15,7 +15,7 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/find-polyfill.svg)](http://hits.dwyl.com/Sylvain59650/find-polyfill)
 </div>
 
-# htmlelement-contextmenu
+# [htmlelement-contextmenu](https://www.npmjs.com/package/htmlelement-contextmenu)
 
 
 <div style="display:inline">
@@ -32,7 +32,7 @@
 </div>
 
 
-# htmlelement-events-extension
+# [htmlelement-events-extension](https://www.npmjs.com/package/htmlelement-events-extension)
 
 <div style="display:inline">
 
@@ -47,7 +47,7 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/htmlelement-events-extension.svg)](http://hits.dwyl.com/Sylvain59650/htmlelement-events-extension)
 </div>
 
- # htmlelement-extension
+ # [htmlelement-extension](https://www.npmjs.com/package/htmlelement-extension)
  
  <div style="display:inline">
 
@@ -62,6 +62,8 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/htmlelement-extension.svg)](http://hits.dwyl.com/Sylvain59650/htmlelement-extension)
 </div>
 
+# [htmlelement-shortcut](https://www.npmjs.com/package/htmlelement-shortcut)
+
 <div style="display:inline">
 
 [![build](https://travis-ci.org/Sylvain59650/htmlelement-shortcut.png?branch=master)](https://travis-ci.org/Sylvain59650/htmlelement-shortcut)
@@ -75,9 +77,10 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/htmlelement-shortcut.svg)](http://hits.dwyl.com/Sylvain59650/htmlelement-shortcut)
 </div>
 
-# linq-to-objects
+# [linq-to-objects](https://www.npmjs.com/package/linq-to-objects)
 
-# lodash-core
+
+# [lodash-core](https://www.npmjs.com/package/lodash-core)
 
 <div style="display:inline">
 
@@ -91,7 +94,7 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/lodash-core.svg)](http://hits.dwyl.com/Sylvain59650/lodash-core)
 </div>
 
-# lodash-object
+# [lodash-object](https://www.npmjs.com/package/lodash-object)
  
 
 <div style="display:inline">
@@ -103,7 +106,7 @@
 [![HitCount](http://hits.dwyl.com/Sylvain59650/lodash-object.svg)](http://hits.dwyl.com/Sylvain59650/lodash-object)
 </div>
 
- # npm-analytics
+ # [npm-analytics]()
 
  <div style="display:inline">
 
@@ -120,7 +123,7 @@
 </div>
  
 
- # object-polyfills
+ # [object-polyfills](https://www.npmjs.com/package/object-polyfills)
 
 <div style="display:inline">
 
@@ -136,7 +139,7 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/object-polyfills.svg)](http://hits.dwyl.com/Sylvain59650/object-polyfills)
 </div>
 
-# passthrough-object
+# [passthrough-object](https://www.npmjs.com/package/passthrough-object)
 
 <div style="display:inline">
 
@@ -153,7 +156,7 @@
 </div>
 
 
-# Positionizer
+# [Positionizer](https://www.npmjs.com/package/positionizer)
 
 Set relative position to element from a referentiel element
 
@@ -167,7 +170,7 @@ Set relative position to element from a referentiel element
 </div>
 
 
-# Smart Mapper
+# [Smart Mapper](https://www.npmjs.com/package/smart-mapper)
 
 <div style="display:inline">
 
@@ -180,7 +183,7 @@ Set relative position to element from a referentiel element
 [![hits](http://hits.dwyl.com/Sylvain59650/smart-mapper.svg)](http://hits.dwyl.com/Sylvain59650/smart-mapper)
 </div>
 
-# string-polyfills
+# [string-polyfills](https://www.npmjs.com/package/string-polyfills)
 
 <div style="display:inline">
 
@@ -196,7 +199,7 @@ Set relative position to element from a referentiel element
 [![hits](http://hits.dwyl.com/Sylvain59650/string-polyfills.svg)](http://hits.dwyl.com/Sylvain59650/string-polyfills)
 </div>
 
-# tree-operations
+# [tree-operations](https://www.npmjs.com/package/tree-operations)
 
 <div style="display:inline">
 
