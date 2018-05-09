@@ -1,8 +1,22 @@
 # [dateTime-object](https://www.npmjs.com/package/datetime-object) 
 
+
+<div style="display:inline">
+
+[![build](https://travis-ci.org/Sylvain59650/datetime-object.png?branch=master)](https://travis-ci.org/Sylvain59650/datetime-object)
+![version](https://img.shields.io/npm/v/datetime-object.svg)
+![package](https://img.shields.io/github/package-json/v/Sylvain59650/datetime-object.svg)
+![dependencies](https://img.shields.io/david/Sylvain59650/datetime-object.svg)
+![minified](https://img.shields.io/bundlephobia/min/datetime-object.svg)
+![linter](https://img.shields.io/badge/eslint-ok-blue.svg)
+![tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)
+![license](https://img.shields.io/npm/l/datetime-object.svg)
+[![hits](http://hits.dwyl.com/Sylvain59650/datetime-object.svg)](http://hits.dwyl.com/Sylvain59650/datetime-object)
+</div>
+
 # [emojibar](https://www.npmjs.com/package/emojibar)
 
-# find-polyfill
+# [find-polyfill](https://www.npmjs.com/package/find-polyfill)
 
 <div style="display:inline">
 
@@ -32,7 +46,7 @@
 </div>
 
 
-# [htmlelement-events-extension](https://www.npmjs.com/package/htmlelement-events-extension)
+# [htmlelement-events-extension](https://www.npmjs.com/package/htmlelement-events-extension){:target="npm"}
 
 <div style="display:inline">
 
@@ -47,7 +61,7 @@
 [![hits](http://hits.dwyl.com/Sylvain59650/htmlelement-events-extension.svg)](http://hits.dwyl.com/Sylvain59650/htmlelement-events-extension)
 </div>
 
- # [htmlelement-extension](https://www.npmjs.com/package/htmlelement-extension)
+ # [htmlelement-extension](https://www.npmjs.com/package/htmlelement-extension){:target="npm"}
  
  <div style="display:inline">
 
