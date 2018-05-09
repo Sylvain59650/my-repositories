@@ -46,7 +46,7 @@
 </div>
 
 
-# [htmlelement-events-extension](https://www.npmjs.com/package/htmlelement-events-extension){:target="npm"}
+# <a href="https://www.npmjs.com/package/htmlelement-events-extension" target="npm">htmlelement-events-extension</a>
 
 <div style="display:inline">
 
